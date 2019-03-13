@@ -43,5 +43,5 @@ app.use(function(err, req, res, next) {
 //module.exports = app;
 
 app.listen(port, ()=> {
-  console.log(`app is running on ${port}`)
+  console.log(`app is running on ${port}`);
 })
